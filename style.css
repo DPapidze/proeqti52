@@ -1,0 +1,14 @@
+.box1{
+    margin-top: 77px;
+    margin-left: 37px;
+    height: 300px;
+    width: 300px;
+    border: 2px solid #888888;
+    text-align: justify;
+}
+
+.box2{
+    margin-top: 50px;
+    margin-left: 613px;
+    color: #FF0000;
+}
